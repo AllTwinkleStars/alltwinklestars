@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/main/gifs/hello.gif"></h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/master/gifs/hello.gif"></h1>
 
 <!-- Profile Views -->
 
@@ -8,7 +8,7 @@
 
  <!-- About section -->
 
-## Hey <img src = "https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/main/gifs/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/AllTwinkleStars/)
+## Hey <img src = "https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/master/gifs/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/AllTwinkleStars/)
 
 ---
 ✨ I'm a MERN Stack Developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
@@ -18,7 +18,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- code gif-->
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/main/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
