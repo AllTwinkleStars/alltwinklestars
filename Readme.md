@@ -18,8 +18,6 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- code gif-->
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/master/gifs/coder.gif" />
-
 ### Talking about Personal Stuffs:
 
 - 😄 My Pronouns: he / him 
