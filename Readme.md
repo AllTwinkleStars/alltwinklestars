@@ -1,6 +1,3 @@
-<!-- Heading -->
-<h1 align="center"><img src = "https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/master/gifs/hello.gif"></h1>
-
 <!-- Profile Views -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AllTwinkleStars&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
