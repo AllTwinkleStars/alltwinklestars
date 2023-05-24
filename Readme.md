@@ -29,8 +29,6 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 📫 How to reach me: KeepGrowinga@gmail.com.
 
-- 📝 Checkout my [Resume](https://github.com/AllTwinkleStars/AllTwinkleStars/blob/main/resume.pdf).
-
 <!-- About section: END -->
  
   <!-- GitHub section -->
