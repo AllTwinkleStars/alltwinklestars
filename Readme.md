@@ -8,9 +8,9 @@
 ## Hey <img src = "https://raw.githubusercontent.com/AllTwinkleStars/AllTwinkleStars/master/gifs/Hi.gif" width = 30px>, I'm [Sr. Full Stack Developer!](https://github.com/AllTwinkleStars/)
 
 ---
-✨ I'm a MERN Stack Developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+✨ I'm a Full-Stack Stack Developer who is passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog. I'm talented with React, Next.js, Gatsby, MUI, Ant Design, Node.js, ExpressJS, HTML, CSS, JavaScript, MongoDB and MySQL. I'm also good at API integration, SEO and Navigation. My experience in developing responsive and user-friendly web applications has helped businesses improve their online presence and increase customer engagement.
+I love sharing my knowledge with others, and I do that through content creation on my Blog. I'm passionate in MERN Stack, Next.js, Django and ASP.NET. I'm also good at API integration, SEO and Navigation. My experience in developing responsive and user-friendly web applications has helped businesses improve their online presence and increase customer engagement.
 
 
 <!-- code gif-->
@@ -19,7 +19,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 😄 My Pronouns: he / him 
 
-- 🛠 I’m currently working with Node.js, ExpressJS, React, <br /> MongoDB, JavaScript, etc.
+- 🛠 I’m currently working with Node.js, ExpressJS, React, React Native <br /> MongoDB, Django, ASP.NET, and etc.
 
 - 🚀 I’m currently learning Full Stack Development.
 
@@ -27,9 +27,9 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/AllTwinkleStars).
 
-- 📫 How to reach me: KeepGrowinga@gmail.com.
+<!--- 📫 How to reach me: KeepGrowinga@gmail.com.-->
 
-- 📝 Checkout my [Resume](https://github.com/AllTwinkleStars/AllTwinkleStars/blob/main/resume.pdf).
+<!-- - 📝 Checkout my [Resume](https://github.com/AllTwinkleStars/AllTwinkleStars/blob/main/resume.pdf).-->
 
 <!-- About section: END -->
  
